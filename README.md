@@ -1,6 +1,6 @@
 # Safe Stochastic Latent Actor-Critic in PyTorch
 This is a PyTorch implementation of Safe Stochastic Latent Actor-Critic, proposed in:
-- "Safe Reinforcement Learning From Pixels Using a Stochastic Latent Representation" by Yannick Hogewind, Thiago D. Simao, Tal Kachman, and Nils Jansen, ICLR 2023. https://openreview.net/forum?id=b39dQt_uffW
+- "Safe Reinforcement Learning From Pixels Using a Stochastic Latent Representation" by Yannick Hogewind, Thiago D. Simão, Tal Kachman, and Nils Jansen, ICLR 2023. https://openreview.net/forum?id=b39dQt_uffW
 
 The implementation is based on Toshiki Watanake's PyTorch [implementation](https://github.com/toshikwa/slac.pytorch) of SLAC[1].
 
