@@ -1,0 +1,14 @@
+GitPython
+gym==0.15.7
+matplotlib==3.5.2
+moviepy==1.0.3
+mujoco-py==2.0.2.7
+numpy
+pandas==1.1.2
+Pillow==9.1.1
+-e git+https://github.com/openai/safety-gym.git@f31042f2f9ee61b9034dd6a416955972911544f5#egg=safety_gym
+tensorboard==2.2.2
+tensorboard-plugin-wit==1.8.1
+tensorboardX==2.5.1
+torch==1.6.0
+tqdm==4.48.2
